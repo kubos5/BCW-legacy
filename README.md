@@ -1,6 +1,9 @@
 # BCW: Better ClasseViVa
 Un client nativo per iPhone, iPad e Mac per il registro elettronico [Classeviva](https://web.spaggiari.eu) di Gruppo Spaggiari Parma.
 
+> [!CAUTION]
+> # Questa è una copia _**NON AGGIORNATA**_ per motivi di preservazione. [Repo principale](https://github.com/kubos5/BCW)
+
 > BCW non è affiliato a Gruppo Spaggiari Parma S.p.A.
 
 ---
